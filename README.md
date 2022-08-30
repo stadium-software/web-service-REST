@@ -4,7 +4,7 @@ This is a [Stadium](https://stadium.software) sample illustrating how to make us
 
 In the sample we call the Random User API web service which returns a random user for us. We then make use of the nationality of the user to get the person Country name by calling the Country API web service. 
 
-
+![Description](https://github.com/stadium-software/web-service-REST/blob/main/description.PNG)
 
 ## Sample Highlights:
 - Call a REST web service
